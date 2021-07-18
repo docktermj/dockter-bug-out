@@ -38,7 +38,7 @@
       </td>
       <td>
         <img src="img/checkbox-20x20.png"> Wedding album <br/>
-        <img src="img/checkbox-20x20.png"> Wedding video &amp; tapes <br/>
+        <img src="img/checkbox-20x20.png"> Wedding video tapes <br/>
       </td>
     </tr>
     <tr>
@@ -60,7 +60,8 @@
         <img src="img/checkbox-20x20.png"> Tablets <br/>
       </td>
       <td>
-        <img src="img/checkbox-20x20.png"> Backup drive <br/>
+        <img src="img/checkbox-20x20.png"> Laptops <br/>
+        <img src="img/checkbox-20x20.png"> Backup drives <br/>
       </td>
   </tbody>
 </table>
